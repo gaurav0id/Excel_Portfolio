@@ -6,3 +6,5 @@ This is a **sample sales dashboard** created in **Microsoft Excel** to demonstra
 This sales dashboard was created to visualise **Product-wise**, **State-wise** and **City-wise** sales data along with percentage of the targets achieved.  
 ### Skills used:  
 - Excel (Charts and Formulas)
+### Dashboard File  
+My final dashboard file is [Final Dashboard](final_dashboard).
