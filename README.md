@@ -1,6 +1,8 @@
 # Excel_Portfolio  
 ## Excel_Dashboard  
-![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/188d1c1d-6c3c-4db4-a2fc-5a340098fe48)  
-### Introduction  
-This sales dashboard was creted to visualise the Product-wise, State-wise and City-wise sales data along with how much of the targets are achieved.  
-
+![Screenshot 2025-02-18 211449](https://github.com/user-attachments/assets/60158df0-412d-4377-9e4a-ff55fd86004d)
+### Overview   
+This is a **sample sales dashboard** created in **Microsoft Excel** to demonstrate **data visualization** and **analysis skills**.  
+This sales dashboard was created to visualise **Product-wise**, **State-wise** and **City-wise** sales data along with percentage of the targets achieved.  
+### Skills used:  
+- Excel (Charts and Formulas)
